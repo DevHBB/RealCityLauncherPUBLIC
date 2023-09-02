@@ -12,6 +12,3 @@ Un simple launcher, avec l'ensemble du code interne.
 Les fichiers sont mis à jours régulièrement.
 
 <a href="https://discord.gg/sZrbnpvfzq"> C'est ici </a> 
-
-
-https://github.com//DevHBB/RealCityLauncherPUBLIC/raw/main/RealCityLauncher/RealCityLauncherFiveM/bin/Debug/RealCity%20Launcher.exe
