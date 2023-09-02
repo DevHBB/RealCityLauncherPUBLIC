@@ -10,3 +10,5 @@ Un simple launcher, avec l'ensemble du code interne.
 ## <i> <u> Une erreur qui ne concerne pas le dev? </i> </u>
 
 Les fichiers sont mis à jours régulièrement.
+
+<a href="https://discord.gg/sZrbnpvfzq"> C'est ici </a> 
